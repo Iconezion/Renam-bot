@@ -21,7 +21,7 @@ FORCE_SUB = os.environ.get("FORCE_SUB", "Icon_Bot")
 
 DB_NAME = os.environ.get("DB_NAME", "icon_rename_bot")     
 
-DB_URL = os.environ.get("DB_URL", "mongodb+srv://iconezion:<password>@cluster037.dndwcx6.mongodb.net/?retryWrites=true&w=majority&appName=Cluster037")
+DB_URL = os.environ.get("DB_URL", "mongodb+srv://iconezion:@cluster037.dndwcx6.mongodb.net/?retryWrites=true&w=majority")
  
 FLOOD = int(os.environ.get("FLOOD", "10"))
 
