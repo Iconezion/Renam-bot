@@ -1,5 +1,5 @@
 {
-    "name": "Renamer Bot",
+    "name": "Icon_Renamer_Bot",
     "description": "Telegram File Renamer Bot ",
     "keywords": ["Renamer Bot", "Mongo DB"],    
     "repository": "https://github.com/VJBots/Rename-Render",
@@ -31,7 +31,7 @@
         },
         "DB_NAME":{ 
             "description":"Your Mongo DB Database Name ",
-            "value": "Cluster0",
+            "value": "Cluster037",
             "required": false
         },
         "START_PIC": {
